@@ -1,6 +1,10 @@
-    import { defineConfig } from 'astro/config'
+import { defineConfig } from "astro/config";
 
-    export default defineConfig({
-      site: 'https://Almorder.github.io',
-      base: '/my-repo',
-    })
+import tailwind from "@astrojs/tailwind";
+
+// https://astro.build/config
+export default defineConfig({
+  integrations: [tailwind()],
+  site: "https://uuykay.github.io",
+  base: "/portfolio",
+});
