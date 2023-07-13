@@ -11,6 +11,8 @@
  *    (or add `stroke="none"` on shapes with no `fill` or `stroke` specified).
  */
 export const iconPaths = {
+
+ 'bento-logo': `< width="32" height="32" fill="none" viewBox="0 0 256 256"><path d="M200,40H56A16,16,0,0,0,40,56V200a16,16,0,0,0,16,16H200a16,16,0,0,0,16-16V56A16,16,0,0,0,200,40Zm0,16v64H56V56Zm-96,80v64H88V136Zm16,0h16v64H120Zm32,0h16v64H152Zm-96,0H72v64H56Zm144,64H184V136h16v64Z"></path>`,
 	'terminal-window': `<path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="m80 96 40 32-40 32m56 0h40"/><rect width="192" height="160" x="32" y="48" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16.97" rx="8.5"/>`,
 	trophy: `<path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="M56 56v55.1c0 39.7 31.8 72.6 71.5 72.9a72 72 0 0 0 72.5-72V56a8 8 0 0 0-8-8H64a8 8 0 0 0-8 8Zm40 168h64m-32-40v40"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="M198.2 128h9.8a32 32 0 0 0 32-32V80a8 8 0 0 0-8-8h-32M58 128H47.9a32 32 0 0 1-32-32V80a8 8 0 0 1 8-8h32"/>`,
 	strategy: `<circle cx="68" cy="188" r="28" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="m40 72 40 40m0-40-40 40m136 56 40 40m0-40-40 40M136 80V40h40"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="m136 40 16 16c40 40 8 88-24 96"/>`,
@@ -35,4 +37,9 @@ export const iconPaths = {
 	'linkedin-logo': `<rect width="184" height="184" x="36" y="36" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" rx="8"/><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="M120 112v64m-32-64v64m32-36a28 28 0 0 1 56 0v36"/><circle stroke="none" cx="88" cy="80" r="12"/>`,
 	'instagram-logo': `<circle cx="128" cy="128" r="40" fill="none" stroke-miterlimit="10" stroke-width="16"/><rect width="184" height="184" x="36" y="36" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" rx="48"/><circle cx="180" cy="76" r="12" stroke="none" />`,
 	'tiktok-logo': `<path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="M168 106a96 96 0 0 0 56 18V84a56 56 0 0 1-56-56h-40v128a28 28 0 1 1-40-25V89a68 68 0 1 0 80 67Z"/>`,
+  'camera': `width="32" height="32" fill="none" viewBox="0 0 256 256"><path d="M208,56H180.28L166.65,35.56A8,8,0,0,0,160,32H96a8,8,0,0,0-6.65,3.56L75.71,56H48A24,24,0,0,0,24,80V192a24,24,0,0,0,24,24H208a24,24,0,0,0,24-24V80A24,24,0,0,0,208,56Zm8,136a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V80a8,8,0,0,1,8-8H80a8,8,0,0,0,6.66-3.56L100.28,48h55.43l13.63,20.44A8,8,0,0,0,176,72h32a8,8,0,0,1,8,8ZM128,88a44,44,0,1,0,44,44A44.05,44.05,0,0,0,128,88Zm0,72a28,28,0,1,1,28-28A28,28,0,0,1,128,160Z"></path>`,
+  'shootingstar': `width="32" height="32" fill="none" viewBox="0 0 256 256"><path d="M239.37,70.1A13.16,13.16,0,0,0,227.9,61l-37.22-3.15L176.16,24a13.24,13.24,0,0,0-24.31,0L137.33,57.86,100.1,61a13.13,13.13,0,0,0-7.49,23.06l28.16,24-8.43,35.73a13.1,13.1,0,0,0,5,13.58,13.25,13.25,0,0,0,14.63.7l32-19,32,19a13.25,13.25,0,0,0,14.63-.7,13.09,13.09,0,0,0,5-13.58l-8.43-35.73,28.15-24A13.07,13.07,0,0,0,239.37,70.1Zm-43.86,27a13.06,13.06,0,0,0-4.26,13l7.31,31-27.78-16.51a13.24,13.24,0,0,0-13.56,0L129.44,141l7.31-31a13,13,0,0,0-4.25-13L108.24,76.38l32.09-2.72a13.16,13.16,0,0,0,11-7.94L164,36.24l12.64,29.48a13.18,13.18,0,0,0,11,7.94l32.09,2.72ZM85.66,125.66l-56,56a8,8,0,0,1-11.32-11.32l56-56a8,8,0,0,1,11.32,11.32Zm16,56-56,56a8,8,0,0,1-11.32-11.32l56-56a8,8,0,0,1,11.32,11.32Zm72-11.32a8,8,0,0,1,0,11.32l-56,56a8,8,0,0,1-11.32-11.32l56-56A8,8,0,0,1,173.66,170.34Z"></path>`
+ 
+
+
 };
