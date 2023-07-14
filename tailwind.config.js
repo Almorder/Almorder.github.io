@@ -6,7 +6,7 @@ index 5d71593..f4475b5 100644
  export default defineConfig({
   integrations: [tailwind()],
    site: "https://Almorder.github.io",
--  base: "/repo",
+-  base: "/Almorder.github.io",
  });
 diff --git a/tailwind.config.js b/tailwind.config.js
 index c70b548..20c416e 100644
