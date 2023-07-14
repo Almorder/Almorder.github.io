@@ -1,4 +1,4 @@
-diff --git a/astro.config.mjs b/astro.config.mjs
+--git a/astro.config.mjs b/astro.config.mjs
 index 5d71593..f4475b5 100644
 --- a/astro.config.mjs
 +++ b/astro.config.mjs
@@ -8,7 +8,8 @@ index 5d71593..f4475b5 100644
    site: "https://Almorder.github.io",
 -  base: "/Almorder.github.io",
  });
-diff --git a/tailwind.config.js b/tailwind.config.js
+
+--git a/tailwind.config.js b/tailwind.config.js
 index c70b548..20c416e 100644
 --- a/tailwind.config.js
 +++ b/tailwind.config.js
