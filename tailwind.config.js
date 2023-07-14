@@ -1,21 +1,22 @@
-
-
-const path = require('path');
-/** @type {import('tailwindcss').Config} */
-
-module.exports = {
-	content: [path.join(__dirname, 'src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}')],
-	theme: {
-		extend: {
-			colors: {
-				dawn: '#f3e9fa',
-				dusk: '#514375',
-				midnight: '#31274a',
-			}
-		}
-	}
-};
-
-}
-	plugins: [],
-}
+diff --git a/astro.config.mjs b/astro.config.mjs
+index 5d71593..f4475b5 100644
+--- a/astro.config.mjs
++++ b/astro.config.mjs
+@@ -6,5 +6,4 @@ import tailwind from "@astrojs/tailwind";
+ export default defineConfig({
+  integrations: [tailwind()],
+   site: "https://Almorder.github.io",
+-  base: "/repo",
+ });
+diff --git a/tailwind.config.js b/tailwind.config.js
+index c70b548..20c416e 100644
+--- a/tailwind.config.js
++++ b/tailwind.config.js
+@@ -15,7 +15,3 @@ module.exports = {
+                }
+        }
+ };
+-
+-}
+-       plugins: [],
+-}
