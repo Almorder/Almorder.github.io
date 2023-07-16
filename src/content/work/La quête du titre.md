@@ -40,7 +40,7 @@ Cette compétition restera à jamais gravée dans ma **mémoire**. Je suis **fie
 
 #### Ce que j'ai appris
 
-Cela me rappel l'importance de rester **ouverts** aux opportunités qui se présentent, de s'**adapter** aux circonstances et de saisir les moments qui se présentent, même s'ils diffèrent de nos **attentes initiales**. Parfois, ces détours inattendus peuvent nous révéler des **talents cachés**, nous offrir des expériences uniques et nous permettre de **grandir** en tant qu'individus. Personnellement, au cours de ces **trois années** de dévouement constant, grâce à cette option, j'ai pu transformer mon **corps** et faire évoluer mon **état d'esprit**.
+Cela me rappelle l'importance de rester **ouverts** aux opportunités qui se présentent, de s'**adapter** aux circonstances et de saisir les moments qui se présentent, même s'ils diffèrent de nos **attentes initiales**. Parfois, ces détours inattendus peuvent nous révéler des **talents cachés**, nous offrir des expériences uniques et nous permettre de **grandir** en tant qu'individus. Personnellement, au cours de ces **trois années** de dévouement constant, grâce à cette option, j'ai pu transformer mon **corps** et faire évoluer mon **état d'esprit**.
 
 >![groupe UNSS](/assets/groupeunss.jpg)
 
