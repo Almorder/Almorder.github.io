@@ -25,7 +25,7 @@ En laissant **carte blanche** pour sa préparation le jour J, il ne restait plus
 
 ### Tel un appel de phare 
 
->![Ran close rouge](/assets/A7400727.jpg)
+![Ran close rouge](/assets/A7400727.jpg)
 >![Ran loin rouge mains sur jupe](/assets/A7400740.jpg)
 
 En marchant dans l'allée principale de ce passage parisien, alors que la **nuit tombait**, mon regard à été attiré par une **lumière vive** au loin.  
@@ -35,7 +35,8 @@ Je tournai les yeux dans sa direction, un embranchement dévoilant une **ruelle 
 Cette invitation s'était transformée en un **désir** soudain, le même qui l'avait **emporté**.
 
 ![Ran cinématique froid](/assets/A7400705.jpg)
-![Ran cinématique baie rouge](/assets/A7400709-25mo.jpg)
+<p>&nbsp;</p>
+>![Ran cinématique baie rouge](/assets/A7400709-25mo.jpg)
 
 #### Ce que j'ai appris
 
@@ -48,7 +49,7 @@ En variant les découvertes, on peut enfin finir par concevoir ce que nous reche
 
 Se retrouver proche d'une personne avec qui une **telle proximité** semblait auparavant inimaginable. Visiter des endroits improbables, vivre des sensations **remarquables** ou bien **redécouvrir** un visage familier.
 
-![Ran rose gold robe](/assets/A7400703.jpg)
+>![Ran rose gold robe](/assets/A7400703.jpg)
 ![Ran rose gold veste](/assets/A7400678.jpg)
 
 Parfois, il suffit simplement d'une rencontre au **bon moment** !
