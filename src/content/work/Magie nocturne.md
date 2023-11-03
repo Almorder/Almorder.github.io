@@ -6,9 +6,9 @@ img_alt:  Nolan de nuit, avec une ring light dans le dos.
 description: |
   Magie nocturne au parc - Capturer l'éclat de la nuit
 tags:
-  - night
+  - Nuit
   - canon
-  - low light 
+  - Low light 
 ---
 
 ## Atmosphère
