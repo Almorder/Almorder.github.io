@@ -7,8 +7,8 @@ img_alt:  Ran cinématique
 description: |
       Sentiers inattendus - Voyage au delà des frontières  
 tags:
-  - cinématique
-  - ran
+  - Cinématique
+  - Ran
   - Paris
 ---
 
