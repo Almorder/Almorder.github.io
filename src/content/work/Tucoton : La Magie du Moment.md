@@ -1,6 +1,5 @@
 ---
-title: Tucoton : La
-Magie du Moment 
+title: Tucoton : La Magie du moment 
 
 publishDate: 2023-10-27 20:00:00
 img: /assets/edit-7400107.jpg
