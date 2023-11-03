@@ -51,6 +51,7 @@ En variant les découvertes, on peut enfin finir par concevoir ce que nous reche
 Se retrouver proche d'une personne avec qui une **telle proximité** semblait auparavant inimaginable. Visiter des endroits improbables, vivre des sensations **remarquables** ou bien **redécouvrir** un visage familier.
 
 >![Ran rose gold robe](/assets/A7400703.jpg)
+
 ![Ran rose gold veste](/assets/A7400678.jpg)
 
 Parfois, il suffit simplement d'une rencontre au **bon moment** !
