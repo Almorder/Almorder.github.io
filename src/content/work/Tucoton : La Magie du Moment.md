@@ -24,9 +24,9 @@ Liant les différentes destinations, à terme, plusieurs choix **d'endroits** et
 En laissant **carte blanche** pour sa préparation le jour J, il ne restait plus qu'à attendre **la rencontre** du lendemain. 
 
 ### Tel un appel de phare 
-
+<p>
 ![Ran close rouge](/assets/A7400727.jpg)
-<p>&nbsp;</p>
+&nbsp;</p>
 
 >![Ran loin rouge mains sur jupe](/assets/A7400740.jpg)
 
@@ -52,8 +52,9 @@ En variant les découvertes, on peut enfin finir par concevoir ce que nous reche
 
 Se retrouver proche d'une personne avec qui une **telle proximité** semblait auparavant inimaginable. Visiter des endroits improbables, vivre des sensations **remarquables** ou bien **redécouvrir** un visage familier.
 
+<p>
 >![Ran rose gold robe](/assets/A7400703.jpg)
-<p>&nbsp;</p>
+&nbsp;</p>
 
 ![Ran rose gold veste](/assets/A7400678.jpg)
 
