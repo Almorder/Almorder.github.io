@@ -26,6 +26,8 @@ En laissant **carte blanche** pour sa préparation le jour J, il ne restait plus
 ### Tel un appel de phare 
 
 ![Ran close rouge](/assets/A7400727.jpg)
+<p>&nbsp;</p>
+
 >![Ran loin rouge mains sur jupe](/assets/A7400740.jpg)
 
 En marchant dans l'allée principale de ce passage parisien, alors que la **nuit tombait**, mon regard à été attiré par une **lumière vive** au loin.  
@@ -51,6 +53,7 @@ En variant les découvertes, on peut enfin finir par concevoir ce que nous reche
 Se retrouver proche d'une personne avec qui une **telle proximité** semblait auparavant inimaginable. Visiter des endroits improbables, vivre des sensations **remarquables** ou bien **redécouvrir** un visage familier.
 
 >![Ran rose gold robe](/assets/A7400703.jpg)
+<p>&nbsp;</p>
 
 ![Ran rose gold veste](/assets/A7400678.jpg)
 
