@@ -47,7 +47,7 @@ C'est l'une de ses amitiés qui dure et se renforce **au fil des âges**. Si je 
 ![Lewis  peace](/assets/edit-crop-7400203.jpg)
 
 #### Ce que j'ai appris
-Ce moment privilégié m'a rappelez que s'unir et savourez des moments avec des personnes qui nous sont chère valent davantage que toutes **les distractions de ce monde**.  
+Ce moment privilégié m'a rappelé que s'unir et savourer des moments avec des personnes qui nous sont chères valent davantage que toutes **les distractions de ce monde**.  
 
 Chaque jour, je comprends que cette **routine** n'est rien si je n'ai **personne** à retrouvé ensuite. Forger des liens qui m'allie à des **âmes fortes** et de **caractère** devient plus que nécessaire pour apprendre à découvrir qui **Je suis**. La photographie me permet de voir celui que j'étais hier tout en réfléchissant à qui je serai demain.  
 
