@@ -6,9 +6,9 @@ img_alt:  Lewis flou main en avant
 description: |
       Tranquilité captivante-Un objectif de photographe
 tags:
-  - night
-  - disney
-  - low light 
+  - Nuit
+  - Disney
+  - Low light 
 ---
 
 ## En toute Sérénité
