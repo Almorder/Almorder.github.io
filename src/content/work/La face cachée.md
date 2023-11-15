@@ -2,7 +2,7 @@
 title: La face cachée
 
 publishDate: 2023-11-15 23:00:00
-img: /assets/A7400917-edit-2.jpg
+img: /assets/A7400917-edit-3.jpg
 img_alt:  Toto Thread Horreur
 description: |
       Nature dissimulé - Un enchainement inopiné  
@@ -17,13 +17,12 @@ De ces clichés émanent un **doute**, je ne savais pas si j'allais pouvoir phot
 Par un concours de circonstances que seul le **destin** a su me faire connaître, ma soirée s'est parfaitement déroulé et tant de surprises y sont survenus. En voici **les souvenirs**.*
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ## Alabri
 >Un visage à découvert
 
 ![Toto timite cutie](/assets/A7400753-edit.jpg)
-<p>&nbsp;</p>
+
 >![Toto centré coldanime](/assets/A7400749-edit-3.jpg)
 
 L'une des **particularité** de la photographie, c'est qu'elle me permet de rencontrer des personnes aux profils variés. Chacune ayant son **histoire**, son **caractère** et ses **envies**.
@@ -38,6 +37,7 @@ Parfois, le simple fait d'être le personnage principal d'une scène peut en dé
 Je fus **surpris** de voir à quel point il s'habitua aux circonstances, comprenant mes instructions et là où je voulais emmener son regard dans l'espace.
 
 <p>&nbsp;</p>
+
 ![Toto bonbon faché](/assets/A7400834-edit.jpg)
 
 ### Gambare (૭ ｡•̀ ᵕ •́｡ )૭
@@ -49,7 +49,7 @@ Il y avait toujours un **plus loin** où aller, un étage à visiter des vitrine
 Autour de moi, **ni** le personnel, **ni** les regards indiscrets ne semblaient se questionner sur le **dispositif** entre mes mains, se fut donc une partie de **plaisir** !
 
 ![Toto meme close ](/assets/A7400816-edit.jpg)
-
+<p>&nbsp;</p>
 
 ### Chic type
 Ce fut une soirée **riche** en **émotions**, le fait de sortir de sa zone de confort et  de sa routine vous change le moral. Bien souvent, un seul **bon souvenir** peut prendre le dessus sur les moments virulent d'une journée.
@@ -63,9 +63,9 @@ Ce fut une soirée **riche** en **émotions**, le fait de sortir de sa zone de c
 
 Grâce à cette séance j'ai pu **aider** une personne à se sentir plus à l'aise avec qui elle est et qui elle souhaite **devenir**.
 
-Je suis conscient qu'il faille savoir jongler entre différentes casquettes, à l'image d'une pièce, on a chacun plusieurs faces, il faut donc adopter le côté **adéquat** en toute situation.
+Je suis **conscient** qu'il faille savoir jongler entre différentes casquettes, à l'image d'une pièce, on a chacun **plusieurs faces**, il faut donc adopter le côté **adéquat** en toute situation.
 
-C'est certain qu'en allant **loin**, j'irai **au delà** de ce que j'espérais afin de briser toutes mes barrières.
+C'est certain qu'en allant **loin**, j'irai **au delà** de ce que j'espérais afin de briser toutes **mes barrières**.
 
 C'était loin d'être la soirée que j'avais **imaginé**, et c'est ce qui la rend **unique** !
 
