@@ -16,6 +16,8 @@ tags:
 De ces clichés émanent un **doute**, je ne savais pas si j'allais pouvoir photographier à cause d'un emploi de temps **incertain**.
 Par un concours de circonstances que seul le **destin** a su me faire connaître, ma soirée s'est parfaitement déroulé et tant de surprises y sont survenus. En voici **les souvenirs**.*
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Alabri
 >Un visage à découvert
