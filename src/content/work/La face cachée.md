@@ -21,7 +21,7 @@ Par un concours de circonstances que seul le **destin** a su me faire connaître
 >Un visage à découvert
 
 ![Toto timite cutie](/assets/A7400753-edit.jpg)
-
+<p>&nbsp;</p>
 >![Toto centré coldanime](/assets/A7400749-edit-3.jpg)
 
 L'une des **particularité** de la photographie, c'est qu'elle me permet de rencontrer des personnes aux profils variés. Chacune ayant son **histoire**, son **caractère** et ses **envies**.
@@ -35,6 +35,7 @@ Parfois, le simple fait d'être le personnage principal d'une scène peut en dé
 
 Je fus **surpris** de voir à quel point il s'habitua aux circonstances, comprenant mes instructions et là où je voulais emmener son regard dans l'espace.
 
+<p>&nbsp;</p>
 ![Toto bonbon faché](/assets/A7400834-edit.jpg)
 
 ### Gambare (૭ ｡•̀ ᵕ •́｡ )૭
@@ -54,6 +55,7 @@ Ce fut une soirée **riche** en **émotions**, le fait de sortir de sa zone de c
 >![Nol boss plante plié](/assets/A7401028-edit.jpg)
 >
 ![Nol boss plante full](/assets/A7401060-edit.jpg)
+<p>&nbsp;</p>
 
 #### Ce que j'ai appris
 
@@ -63,7 +65,7 @@ Je suis conscient qu'il faille savoir jongler entre différentes casquettes, à 
 
 C'est certain qu'en allant **loin**, j'irai **au delà** de ce que j'espérais afin de briser toutes mes barrières.
 
-C'était loin d'être la soirée que j'avais imaginée, et c'est ce qui l'a rend **unique** !
+C'était loin d'être la soirée que j'avais **imaginé**, et c'est ce qui la rend **unique** !
 
 
 ![Toto boss plante](/assets/A7400950-edit.jpg)
