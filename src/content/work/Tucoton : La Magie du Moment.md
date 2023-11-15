@@ -40,6 +40,8 @@ Cette invitation s'était transformée en un **désir** soudain, le même qui l'
 
 >![Ran cinématique baie rouge](/assets/A7400709-25mo.jpg)
 
+<p>&nbsp;</p>
+
 #### Ce que j'ai appris
 
 **Osez** ! Allez de l'avant, prenez l'initiative d'explorer des **chemins** que vous n'auriez jamais envisagés pour **atteindre** vos **objectifs**.
