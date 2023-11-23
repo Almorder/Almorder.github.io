@@ -58,6 +58,7 @@ Ensuite, une section dans le **logiciel d'édition**. Ici on effectue une étape
 Enfin un **montage** pour créer le résultat **souhaité** et **imaginé**.
 
 >![Ziro pose miroir](/assets/DSC02103-edit.jpg)
+*Ziro, assistant photo - contenu backstage*
 
 <p>&nbsp;</p>
 
@@ -73,9 +74,11 @@ Il faut être **actif** quand il en est encore temps, atteindre tous ses objecti
 
 
 ![jero boss canapé](/assets/DSC02295-edit.jpg)
+*Jérôme, photographe - contenu shooting*
 
+L'un des plus **grands pouvoirs** qu'il nous a été confié sur cette terre est celui de méditer. 
 
-L'un des plus **grands pouvoirs** qu'il nous a été confié sur cette terre est celui de méditer. **S'accaparer** des moments de calme et de pause afin de se **rendre compte** que peut-être :
+**S'accaparer** des moments de calme et de pause afin de se **rendre compte** que peut-être :
 
 ##### - *“Your whole life, sir, you followed the wrong star.”*
 
