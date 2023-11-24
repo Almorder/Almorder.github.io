@@ -12,7 +12,7 @@ tags:
  - Prestation
 ---
 
-*Les **photos** présentes dans cet article ont été prises avec un **ancien appareil**. Mon matériel actuel était utilisé lors du tournage. Les clichés ci-dessous sont à titre **illustratif** afin d’habiller la narration de cette expérience. Les illustrations dévoilent les **backstages** de la **prestation**, elles ont été capturées en **temps réel**.*
+*Les **photos** présentes dans cet article ont été prises avec un **ancien appareil**. Mon matériel actuel était utilisé lors du tournage. Les images ci-dessous sont à titre **illustratif** afin d’habiller la narration de cette expérience. Les illustrations dévoilent les **backstages** de la **prestation**, elles ont été capturées en **temps réel**.*
 
 <p>&nbsp;</p>
 
