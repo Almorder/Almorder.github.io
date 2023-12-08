@@ -1,5 +1,5 @@
 ---
-title: Arcteryx : évolution perpétuelle 
+title: Arcteryx, évolution perpétuelle 
 
 publishDate: 2023-12-06 19:00:00
 img: /assets/A7400961-edit.jpg
