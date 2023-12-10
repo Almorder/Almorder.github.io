@@ -2,7 +2,7 @@
 title: Arcteryx, évolution perpétuelle 
 
 publishDate: 2023-12-06 19:00:00
-img: /assets/A7400961-edit.jpg
+img: /assets/A7400961-editfblack.jpg
 img_alt: Té fumée oeil
 description: |
       Expédition amical - Balade coloré
@@ -45,7 +45,7 @@ J'applique la même méthode avec mon matériel. Je sécurise les photos sur des
 
 ![pull rose cagoule](/assets/A7400924-edit.jpg)
 ![doudoune main tete](/assets/A7400943-edit-2.jpg)
-![gun fake](/assets/A7400946-edit-crop.jpg)
+![gun fake](/assets/A7400946-edit-cropfblack.jpg)
 
 <p>&nbsp;</p>
 
@@ -72,12 +72,26 @@ J'applique la même méthode avec mon matériel. Je sécurise les photos sur des
 
 #### Ce que j'ai appris
 
-.....
+Allez où bon vous semble tant que c'est un chemin qui mène au **progrès**.
+
+Parfois, certains vous en dissuadent, ou bien vous vous persuadent que vous ne pouvez pas y arriver. De **fausses** vérités sont difficilement révocables.
+
+**Créez** donc votre propre **bulle** !
 
 
-![Té fond rose](/assets/A7401000-edit.jpg)
+
+![Té fond rose](/assets/A7401000-editclean.jpg)
+
+Il y a de **vrai**, les choses que vous **connaissez** et observez de manière **claire** et **distincte**.
+
+**Ressaisissez vous** dans les moments de doutes, pour permettre à votre **volonté** d'agir.
+
+J'ai une **règle** à vous offrir. C'est la règle des **5 secondes**. 
+
+Dans jusqu'à 5, votre esprit, comptez et prenez la **décision** de **surpasser** la peur en vous. Que ce soit exprimer une parole à un être cher ou bien vous lancer dans un **projet ambitieux**, utilisez cette règle autant que possible.
+
+Auquel cas,  il serait possible que vous seriez entrain  : 
 
 
-.....
 
 ##### - *“Exister dans un monde qui n'existe pas .”*
