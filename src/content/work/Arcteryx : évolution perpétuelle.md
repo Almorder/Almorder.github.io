@@ -54,7 +54,7 @@ J'applique la même méthode avec mon matériel. Je **sécurise** les photos sur
 
 ### Avec le sourire
 
-.......
+Réussir à instaurer une **bonne ambiance** lors d’une séance est **essentiel** ! 
 
 >![prince ris face](/assets/A7400977-edit-1x1.jpg)
 
@@ -65,6 +65,18 @@ J'applique la même méthode avec mon matériel. Je **sécurise** les photos sur
 
 
 ### Rivalité interne
+
+En voulant trouver notre prochaine **destination**, nous sommes tombés sur un **monument** dont la pointe dépassait les appartements parisiens.
+
+**Intrigué** par ce dôme, j’ai décidé d’aller **investiguer** de plus prêt l’endroit.
+En se rapprochant de la **structure**, nous sommes passés par des rues peu éclairées et notre regard était porté sur le **toit illuminé**.
+
+Une fois arrivé sur les lieux, le bâtiment semblait **majestueux**.
+
+Cependant, ce n’était pas la première chose que nous avons remarqué sur les lieux.
+
+Une **étrange fumée** se dégageait du **sol**... 
+
 
 ![Té look down](/assets/A7401054.jpg)
 
