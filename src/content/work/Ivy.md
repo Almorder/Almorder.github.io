@@ -2,7 +2,7 @@
 title: Ivy
 
 publishDate: 2023-12-20 18:00:00
-img: /assets/A7401220-editV3.jpg
+img: /assets/A7401220-edit.jpg
 img_alt: Fantastic vibe orange white
 description: |
       L'enchantement - Quand l'objectif devient une Baguette Magique
@@ -38,7 +38,7 @@ Mon capital matériel est en **pleine expansion** et je serai ravi de vous en fa
 
 <p>&nbsp;</p>
 
-![Ag fond rouge coldanime](/assets/A7401238-edit V6.jpg)
+![Ag fond rouge coldanime](/assets/A7401238-editV6.jpg)
 
 ### Ballet Féerique 🧚‍♀️
 
@@ -53,8 +53,6 @@ Certes, avoir la **mainmise** sur son espace est un **grand facteur** et pourtan
 
 
 ![AG contente](/assets/A7401268-edit.jpg)
-
-![doudoune main tete](/assets/A7400943-edit-2.jpg)
 
 
 <p>&nbsp;</p>
@@ -76,4 +74,4 @@ Certes, avoir la **mainmise** sur son espace est un **grand facteur** et pourtan
 
 
 
-##### - *“J'aimerais que cela ai duré en amont de toute éternité, et que cela dure éternellement à l'aveni.”*
+##### - *“J'aimerais que cela ai duré en amont de toute éternité, et que cela dure éternellement à l'avenir.”*
