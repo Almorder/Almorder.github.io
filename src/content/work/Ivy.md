@@ -59,7 +59,6 @@ Certes, avoir la **mainmise** sur son espace est un **grand facteur** et pourtan
 
 ### Un lointain Brasier 
 
-
 ![Ag feu](/assets/A7401314-editv2.jpg)
 
 ![Ag vitrine](/assets/A7401298-editv2crop.jpg)
