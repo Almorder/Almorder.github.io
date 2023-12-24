@@ -3,7 +3,7 @@ title: Ivy
 
 publishDate: 2023-12-20 18:00:00
 img: /assets/A7401220-editV3.jpg
-img_alt: 
+img_alt: Fantastic vibe orange white
 description: |
       L'enchantement - Quand l'objectif devient une Baguette Magique
 tags:
