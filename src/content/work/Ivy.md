@@ -59,6 +59,14 @@ Certes, avoir la **mainmise** sur son espace est un **grand facteur** et pourtan
 
 ### Un lointain Brasier 
 
+Paris se dévoile sous un autre jour lors des périodes de **fêtes hivernales**. Je fus conquis par l’**ambiance** instaurée dans cette grande rue emplie de commerces.
+
+L’attention aux **détails** que ces boutiques imaginent rend d’autant plus crédible l’**esprit de noël** dans les rues de la ville. 
+
+J’ai été **émerveillé** en passant devant chacune des ces vitrines de **grands magasins**. 
+
+Ainsi, j’ai souhaité prendre ces photos pour **garder en mémoire** ce moment.
+
 ![Ag feu](/assets/A7401314-editv2.jpg)
 
 ![Ag vitrine](/assets/A7401298-editv2crop.jpg)
