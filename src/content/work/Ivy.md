@@ -5,7 +5,7 @@ publishDate: 2023-12-20 18:00:00
 img: /assets/A7401220-edit.jpg
 img_alt: Fantastic vibe orange white
 description: |
-      L'enchantement - Quand l'objectif devient une Baguette Magique
+      L'enchantement hivernale - Une Palette vibrante
 tags:
 - Paris
  - Night
@@ -76,9 +76,17 @@ Ainsi, j’ai souhaité prendre ces photos pour **garder en mémoire** ce moment
 
 #### Ce que j'ai appris
 
+Parfois, il faut savoir **prendre le temps** de contempler le moment présent. 
+
+Chaque jour, à travers nos yeux, beaucoup de **distractions** se reflètent. Si comme moi, il vous est arrivé de **perdre** un souvenir récent et d’avoir du mal à **visualiser** cette scène. Il est sans doute venu le temps de se **poser** l’espace d’un instant pour peut-être **remercier** ces beaux **interstices** dans nos vies. 
+
+Les **lâcher prises** se font rares pour ceux qui **sacrifient** quelques années de **confort**. Néanmoins, nous avons tous un **droit** à la **paresse** 🫡
 
 ![Fenêtre illuminé](/assets/A7401322-edit.jpg)
 
+Profitez de ces périodes de **fêtes** pour **célébrer** votre **repos** et vos sentiments envers vos proches. **Je vous souhaite** de passer de très bonnes fêtes **entouré** des personnes qui vous sont **chères**. 
+
+Afin qu’un jour, votre plus **beau cadeau** 🎁 soit un **souvenir** que vous vous remémorer en vous disant que : 
 
 
 ##### - *“J'aimerais que cela ai duré en amont de toute éternité, et que cela dure éternellement à l'avenir.”*
