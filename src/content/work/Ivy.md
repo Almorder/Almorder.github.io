@@ -22,7 +22,7 @@ tags:
 
 ![Ag paysage color ](/assets/A7401134-editv2.jpg)
 
->![Ag portrait color](/assets/A7401138-editv2.jpg)
+>![Ag portrait color](/assets/A7401138-edit.jpg)
 
 Quelle **hâte** j'avais de pouvoir découvrir de mes propres yeux ce lieu **atypique**. 
 
