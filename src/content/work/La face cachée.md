@@ -31,7 +31,7 @@ Aujourd'hui, **j'initie** quelqu'un à ce monde en lui ouvrant cette porte grâc
 
 Un **soupçon d'appréhension**, un sourire en coin, pas de doute, malgré la **timidité**, une fois à l'aise devant l'objectif, il redeviendra **celui que je connais**.
 
-Parfois, le simple fait d'être le personnage principal d'une scène peut en dérouter plus d'un, durant cette sortie j'ai fait mon **maximum** pour que Toto se sente en **confiance** afin qu'il se dévoile à l'image.
+Parfois, le simple fait d'être le personnage principal d'une scène peut en dérouter plus d'un, durant cette sortie, j'ai fait mon **maximum** pour que Toto se sente en **confiance** afin qu'il se dévoile à l'image.
 
 
 Je fus **surpris** de voir à quel point il s'habitua aux circonstances, comprenant les instructions et là où je voulais emmener son regard dans l'espace.
@@ -61,9 +61,9 @@ Ce fut une soirée **riche** en **émotions**, le fait de sortir de sa zone de c
 
 #### Ce que j'ai appris
 
-Grâce à cette séance j'ai pu **aider** une personne à se sentir plus à l'aise avec qui elle est et qui elle souhaite **devenir**.
+Grâce à cette séance, j'ai pu **aider** une personne à se sentir plus à l'aise avec qui elle est et qui elle souhaite **devenir**.
 
-Je suis **conscient** qu'il faille savoir jongler entre différentes casquettes, à l'image d'une pièce, on a chacun **plusieurs faces**, il faut donc adopter le côté **adéquat** en toute situation.
+Je suis **conscient** qu'il faille savoir jongler entre différentes casquettes, à l'image d'une pièce, on a chacun ; **plusieurs faces**, il faut donc adopter le côté **adéquat** en toute situation.
 
 C'est certain qu'en allant **loin**, j'irai **au-delà** de ce que j'espérais afin de briser toutes **mes barrières**.
 
