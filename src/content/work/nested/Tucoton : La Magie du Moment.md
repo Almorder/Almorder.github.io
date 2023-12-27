@@ -5,7 +5,7 @@ publishDate: 2023-10-27 20:00:00
 img: /assets/A7400725.jpg
 img_alt:  Ran cinématique
 description: |
-      Sentiers inattendus - Voyage au delà des frontières  
+      Sentiers inattendus - Voyage au-delà des frontières  
 tags:
   - Cinématique
   - Ran
@@ -18,7 +18,7 @@ tags:
 Au détour d'une discussion, la révélation de ma **passion** fit surface.
 Intriguée, une série de **questions** fit surface, nous amenant à conclure **un rendez vous**, persuadé de la **pertinence** de cet échange.
 
-Je passa la soirée entière à répertorié des lieux **intéressants** correspondants à ses goûts. 
+Je passa la soirée entière à répertorier des lieux **intéressants** correspondants à ses goûts. 
 Liant les différentes destinations, à terme, plusieurs choix **d'endroits** et **d'itinéraires** étaient disponible.
 
 En laissant **carte blanche** pour sa préparation le jour J, il ne restait plus qu'à attendre **la rencontre** du lendemain. 
@@ -29,7 +29,7 @@ En laissant **carte blanche** pour sa préparation le jour J, il ne restait plus
 
 >![Ran loin rouge mains sur jupe](/assets/A7400740.jpg)
 
-En marchant dans l'allée principale de ce passage parisien, alors que la **nuit tombait**, mon regard à été attiré par une **lumière vive** au loin.  
+En marchant dans l'allée principale de ce passage parisien, alors que la **nuit tombait**, mon regard a été attiré par une **lumière vive** au loin.  
 
 Je tournai les yeux dans sa direction, un embranchement dévoilant une **ruelle déserte**, enclose dans des **reflets rougeâtres**. 
 
@@ -54,7 +54,7 @@ En variant les découvertes, on peut enfin finir par concevoir ce que nous reche
 Se retrouver proche d'une personne avec qui une **telle proximité** semblait auparavant inimaginable. Visiter des endroits improbables, vivre des sensations **remarquables** ou bien **redécouvrir** un visage familier.
 
 
->![Ran rose gold robe](/assets/A7400703.jpg)
+>![Ran rose gold robe](/assets/A7400703+PS+DOD+MAT16.jpg)
 >
 ![Ran rose gold veste](/assets/A7400678.jpg)
 
