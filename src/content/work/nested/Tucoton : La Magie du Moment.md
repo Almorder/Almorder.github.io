@@ -16,10 +16,10 @@ tags:
 >Escapade tête en l'air 
 
 Au détour d'une discussion, la révélation de ma **passion** fit surface.
-Intriguée, une série de **questions** fit surface, nous amenant à conclure **un rendez vous**, persuadé de la **pertinence** de cet échange.
+Intriguée, une série de **questions** fit surface, nous amenant à conclure **un rendez-vous**, persuadé de la **pertinence** de cet échange.
 
-Je passa la soirée entière à répertorier des lieux **intéressants** correspondants à ses goûts. 
-Liant les différentes destinations, à terme, plusieurs choix **d'endroits** et **d'itinéraires** étaient disponible.
+Je passai la soirée entière à répertorier des lieux **intéressants** correspondants à ses goûts. 
+Liant les différentes destinations, à terme, plusieurs choix **d'endroits** et **d'itinéraires** étaient disponibles.
 
 En laissant **carte blanche** pour sa préparation le jour J, il ne restait plus qu'à attendre **la rencontre** du lendemain. 
 
