@@ -2,7 +2,7 @@
 title: Tucoton, la Magie du moment 
 
 publishDate: 2023-10-27 20:00:00
-img: /assets/A7400725.jpg
+img: /assets/A7400725+PS+LUM.jpg
 img_alt:  Ran cinématique
 description: |
       Sentiers inattendus - Voyage au-delà des frontières  
@@ -25,9 +25,9 @@ En laissant **carte blanche** pour sa préparation le jour J, il ne restait plus
 
 ### Tel un appel de phare 
 
-![Ran close rouge](/assets/A7400727.jpg)
+![Ran close rouge](/assets/A7400727+ps+LUM.jpg)
 
->![Ran loin rouge mains sur jupe](/assets/A7400740.jpg)
+>![Ran loin rouge mains sur jupe](/assets/A7400740+PS+MAT+LUM.jpg)
 
 En marchant dans l'allée principale de ce passage parisien, alors que la **nuit tombait**, mon regard a été attiré par une **lumière vive** au loin.  
 
@@ -56,7 +56,7 @@ Se retrouver proche d'une personne avec qui une **telle proximité** semblait au
 
 >![Ran rose gold robe](/assets/A7400703+PS+DOD+MAT16.jpg)
 >
-![Ran rose gold veste](/assets/A7400678.jpg)
+![Ran rose gold veste](/assets/A7400678+PS+DOD+MAT+LUM+v3.jpg)
 
 Parfois, il suffit simplement d'une rencontre au **bon moment** !
 
