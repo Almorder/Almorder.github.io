@@ -29,7 +29,7 @@ Les **installations lumineuses**, la disposition du **décor**, l'organisation d
 
 Tout cela doit être pensé **à l'avance** afin d'éviter les **imprévus**.
 
-Une fois avoir vérifié que mes **batteries** étaient bien chargées, voici venu le temps de commencer à **filmer** !
+Une fois avoir vérifié que mes **batteries** étaient bien chargées, il était temps de commencer à **filmer** !
 
 
 
@@ -47,13 +47,13 @@ J'ai opté pour une configuration **simple** avec un micro et un écran déport�
 <p>&nbsp;</p>
 
 ### Coupe et découpe
-Après le tournage, voici la partie **essentielle** de mes créations numériques, le montage vidéo 🧑🏽‍💻. Plusieurs étapes sont nécessaires à l'achèvement de n'importe qu'elle **billboard** ou **long métrage**.
+Après le tournage, voici la partie **essentielle** de mes créations numériques, le montage vidéo 🧑🏽‍💻. Plusieurs étapes sont nécessaires à l'achèvement de n'importe quelle **billboard** ou **long métrage**.
 
 Pour résumer, les tâches se différencient en **3 étapes**.
 
 Tout d'abord **l'exportation** des fichiers de votre appareil dans votre ordinateur en les **organisant**.
 
-Ensuite, une section dans le **logiciel d'édition**. Ici on effectue une étape de **derush** (sélectionner grossièrement les parties intéressantes de nos films), puis une **présélection** des moments captivants.
+Ensuite, une section dans le **logiciel d'édition**. Ici, on effectue une étape de **derush** (sélectionner grossièrement les parties intéressantes de nos films), puis une **présélection** des moments captivants.
 
 Enfin un **montage** pour créer le résultat **souhaité** et **imaginé**.
 
@@ -65,13 +65,13 @@ Enfin un **montage** pour créer le résultat **souhaité** et **imaginé**.
 
 #### Ce que j'ai appris
 
-Dans les moments **importants**, acceptez le plus d'opportunités possibles en favorisant les **gagnantes-gagnantes**.
+Dans les moments **importants**, acceptez-le plus d'opportunités possibles en favorisant les **gagnant-gagnant**.
 
-Rester passif amène à ne rien connaître, rien créer à  et rien expérimenter. Cela doit être loin de toutes vos préoccupations. **Évitez** clairement ce cheminement.
+Rester passif amène à ne rien connaître, à ne rien créer et à ne rien expérimenter. Cela doit être loin de toutes vos préoccupations. **Évitez** clairement ce cheminement.
 
 Autrement, **rassurez-vous** et soyez au-devant de la scène !
 
-Il faut être **actif** quand il en est encore temps, atteindre tous ses objectifs avant que ceux-ci ne vous rattrape et **marquer** votre monde de **l'essence** de votre **être**.
+Il faut être **actif** quand il en est encore temps, atteindre tous ses objectifs avant que ceux-ci ne vous rattrapent et **marquer** votre monde de **l'essence** de votre **être**.
 
 
 ![jero boss canapé](/assets/DSC02295-edit.jpg)
