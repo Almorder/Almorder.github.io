@@ -4,7 +4,7 @@ publishDate: 2022-04-06 16:00:00
 img: /assets/maincrop.jpg
 img_alt:  Nolan avec des traces de mains blanches dans le dos.
 description: | 
- Champions de France de musculation Crossfit - Une aventure inoubliable au lycée
+ Champion de France de musculation Crossfit - Une aventure inoubliable au lycée
 tags:
   - Sport
   - Compétition
@@ -32,7 +32,7 @@ Notre lycée a participé aux <a href="https://www.ac-aix-marseille.fr/championn
 
 Malheureusement, nous n'avons pas pu participer à la **finale** cette année-là, car tous les élèves de terminale ont été contraints de se **retirer** en raison du <a href="https://www.education.gouv.fr/bo/22/Hebdo12/MENE2201210N.htm#:~:text=Les%20%C3%A9preuves%20%C3%A9crites%20d'enseignements,en%20annexes%20I%20et%20II." target="_blank">report du baccalauréat</a> en mai, qui coïncidait avec la semaine de la finale. 
 
-Le baccalauréat était une priorité absolue et il était **inenvisageable** de se déplacer jusqu'à Marseille, lieu des affrontements finaux, pour disputer le championnat. Une **équipe B** a été envoyée, seulement composé d'**un membre de l'ancienne équipe numéro 1** pourtant, contre toute attente, **l'équipe B** a remporté la **victoire**, décrochant ainsi le **titre de champions de France de musculation Crossfit** pour le lycée de <a href="https://www.lyceebrontelognes.websco.fr/" target="_blank">***Lognes Emily Brontë***. </a>
+Le baccalauréat était une priorité absolue et il était **inenvisageable** de se déplacer jusqu'à Marseille, lieu des affrontements finaux, pour disputer le championnat. Une **équipe B** a été envoyée, seulement composé d'**un membre de l'ancienne équipe numéro 1** pourtant, contre toute attente, **l'équipe B** a remporté la **victoire**, décrochant ainsi le **titre de champion de France de musculation Crossfit** pour le lycée de <a href="https://www.lyceebrontelognes.websco.fr/" target="_blank">***Lognes Emily Brontë***. </a>
 
 ![coupe et médaille](/assets/coupe.jpg)
 
@@ -40,7 +40,7 @@ Cette compétition restera à jamais gravée dans ma **mémoire**. Je suis **fie
 
 #### Ce que j'ai appris
 
-Cela me rappelle l'importance de rester **ouverts** aux opportunités qui se présentent, de s'**adapter** aux circonstances et de saisir les moments qui se présentent, même s'ils diffèrent de nos **attentes initiales**. Parfois, ces détours inattendus peuvent nous révéler des **talents cachés**, nous offrir des expériences uniques et nous permettre de **grandir** en tant qu'individus. Personnellement, au cours de ces **trois années** de dévouement constant, grâce à cette option, j'ai pu transformer mon **corps** et faire évoluer mon **état d'esprit**.
+Cela me rappelle l'importance de rester **ouvert** aux opportunités qui se présentent, de s'**adapter** aux circonstances et de saisir les moments qui se présentent, même s'ils diffèrent de nos **attentes initiales**. Parfois, ces détours inattendus peuvent nous révéler des **talents cachés**, nous offrir des expériences uniques et nous permettre de **grandir** en tant qu'individus. Personnellement, au cours de ces **trois années** de dévouement constant, grâce à cette option, j'ai pu transformer mon **corps** et faire évoluer mon **état d'esprit**.
 
 >![groupe UNSS](/assets/groupeunss.jpg)
 
