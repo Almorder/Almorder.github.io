@@ -13,7 +13,7 @@ tags:
 ---
 
 *Ce jour-là, rien n'était encore sûr.
-De ces clichés émanent un **doute**, je ne savais pas si j'allais pouvoir photographier à cause d'un emploi de temps **incertain**.
+De ces clichés émane un **doute**, je ne savais pas si j'allais pouvoir photographier à cause d'un emploi de temps **incertain**.
 Par un concours de circonstances que seul le **destin** a su me faire connaître, ma soirée s'est parfaitement déroulée et tant de surprises y sont survenus. En voici **les souvenirs**.*
 
 <p>&nbsp;</p>
@@ -67,7 +67,7 @@ Je suis **conscient** qu'il faille savoir jongler entre différentes casquettes,
 
 C'est certain qu'en allant **loin**, j'irai **au-delà** de ce que j'espérais afin de briser toutes **mes barrières**.
 
-C'était loin d'être la soirée que j'avais **imaginé**, et c'est ce qui la rend **unique** !
+C'était loin d'être la soirée que j'avais **imaginée**, et c'est ce qui la rend **unique** !
 
 
 ![Toto boss plante](/assets/A7400950-edit.jpg)
