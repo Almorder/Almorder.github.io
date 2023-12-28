@@ -36,6 +36,6 @@ Cette séance photo m'a offert un moment d'introspection, ouvrant ainsi de nouve
 
 
 #### Ce que j'ai appris
-Peu importe si votre **projet initial rate**, vous avez le pouvoir de **construire** et **façonner** une nouvelle vision, encore plus **solide** et **magnifique**, avec les ressources à votre disposition. Souvenez-vous :
+Peu importe si votre **projet initial rate**, vous avez le pouvoir de **construire** et de **façonner** une nouvelle vision, encore plus **solide** et **magnifique**, avec les ressources à votre disposition. Souvenez-vous :
 
 ##### - *“be right in the middle of now”*
