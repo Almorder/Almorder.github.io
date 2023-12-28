@@ -12,7 +12,7 @@ tags:
  - Prestation
 ---
 
-*Lors de mes recherches de **spots photos** je suis tombé sur une série de lieux **étrangers** au décor parisien. Ceux-ci diffèrent à un point où il serait difficile au premier abord de **deviner** qu'ils se trouvent dans la ville lumière. Ce sont des lieux haut en **couleur**, parfois remplis de **nature** ou bien **improbables**... En voici des **portraits**.*
+*Lors de mes recherches de **spots photos**, je suis tombé sur une série de lieux **étrangers** au décor parisien. Ceux-ci diffèrent à un point où il serait difficile au premier abord de **deviner** qu'ils se trouvent dans la ville lumière. Ce sont des lieux haut en **couleur**, parfois remplis de **nature** ou bien **improbables**... En voici des **portraits**.*
 
 <p>&nbsp;</p>
 
@@ -23,9 +23,9 @@ tags:
 
 >![Té shoes](/assets/A7400890-edittuch.jpg)
 
-En me rendant sur place, je fus **agréablement** surpris de découvrir que ma destination se trouvait non loin de quartiers que j'avais déjà fréquenté.
+En me rendant sur place, je fus **agréablement** surpris de découvrir que ma destination se trouvait non loin de quartiers que j'avais déjà fréquentés.
 
-De cette manière je pu **redécouvrir** un endroit que j'avais apprécié auparavant.
+De cette manière, je pus **redécouvrir** un endroit que j'avais apprécié auparavant.
 
 Comme quoi, il est possible de **manquer** de **magnifiques paysages** lorsqu'ils sont enfouis dans des **détails invisibles**.
 
@@ -38,9 +38,9 @@ Comme quoi, il est possible de **manquer** de **magnifiques paysages** lorsqu'il
 
 Lorsque cela est possible, je demande toujours à mes modèles de prévoir une **tenue** de **rechange** pour varier les possibilités lors des photos.
 
-De plus, si la tenue numéro 1 rencontre un quelconque problème, il est possible de passer outre grâce à la 2eme.
+De plus, si la tenue numéro 1 rencontre un quelconque problème, il est possible de passer outre grâce à la 2e.
 
-J'applique la même méthode avec mon matériel. Je **sécurise** les photos sur des cartes mémoires et je pense toujours à prendre un **accessoire** en plus qui pourrait servir lors de mes séances photos.
+J'applique la même méthode avec mon matériel. Je **sécurise** les images sur des cartes mémoires et je pense toujours à prendre un **accessoire** en plus qui pourrait servir lors de mes séances photo.
 
 
 ![pull rose cagoule](/assets/A7400924-edit.jpg)
@@ -73,7 +73,7 @@ En se rapprochant de la **structure**, nous sommes passés par des rues peu écl
 
 Une fois arrivé sur les lieux, le bâtiment semblait **majestueux**.
 
-Cependant, ce n’était pas la première chose que nous avons remarqué sur les lieux.
+Cependant, ce n’était pas la première chose que nous avons remarquée sur les lieux.
 
 Une **étrange fumée** se dégageait du **sol**... 
 
@@ -101,13 +101,13 @@ Parfois, certains vous en dissuadent, ou bien vous vous persuadent que vous ne p
 
 Il y a de **vrai**, les choses que vous **connaissez** et observez de manière **claire** et **distincte**.
 
-**Ressaisissez vous** dans les moments de doutes, pour permettre à votre **volonté** d'agir.
+**Ressaisissez-vous** dans les moments de doutes, pour permettre à votre **volonté** d'agir.
 
 J'ai une **règle** à vous offrir. C'est la règle des **5 secondes**. 
 
 Dans votre esprit, comptez jusqu'à 5, et prenez la **décision** de **surpasser** la peur en vous. Que ce soit exprimer une parole à un être cher ou bien vous lancer dans un **projet ambitieux**, utilisez cette règle autant que possible.
 
-Auquel cas,  il serait possible que vous seriez entrain  : 
+Auquel cas il serait possible que vous seriez en train  : 
 
 
 
