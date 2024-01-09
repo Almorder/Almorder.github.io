@@ -1,5 +1,5 @@
 ---
-title: L'étincelle, abstraction éphémère.md
+title: L'étincelle, abstraction éphémère
 
 publishDate: 2024-01-06 14:00:00
 img: /assets/A7401563-editcleanjey.jpg
