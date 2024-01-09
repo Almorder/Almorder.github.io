@@ -25,11 +25,11 @@ tags:
 
 Plongé dans cet **art** recouvrant chaque **pièce**, chaque **mur** et chaque **récit**.
 
-Mon regard parcourait l'**espace**, porté par une inspiration telle que les **compositions** s'enchaînent **sans relâche**.
+Mon regard parcourait l'**espace**, porté par une inspiration telle que les **compositions** s'enchaînaient **sans relâche**.
 
 Mes **idées** étaient plus **claires** au fur à mesure que nous avancions dans ces décors.
 
-Il était naturel de **contempler** les scènes que je faisais jouer à travers les **lentilles** qui composent ma machine.
+Il était naturel de **contempler** les scènes que je faisais jouer à travers les **lentilles** de ma machine.
 
 Ce **tableau** me rappelle **l'infini**, une lueur en **perpétuel changement**. C'est le genre de lumière qui vous fait espérer un avenir **grandiose** en bonne compagnie.
 
@@ -61,16 +61,18 @@ Les conversations, les gestes tendres, les petites expressions qui dansent comme
 
 Il existe un **chapitre** particulier qui met en lumière une jeune fille **extraordinaire**.
 
-Elle est le récit d'une **collaboration** encore à écrire, une **histoire** où chaque moment passé ensemble est un film **captivant***.
+Elle est le récit d'une **collaboration** encore à écrire, une **histoire** où chaque moment passé ensemble est un film **captivant**.
 
 Grâce à elle, il se **dessine** toujours des trajectoires **imprévues**, mêlant **anecdotes** et **surprises**.
 
-Son rire résonne comme une **prédiction** joyeuse des jours à venir. Elle est un **protagoniste** éclatant que l'on trouve au détour d'une page. Son existence est parfois une **énigme**, la même qui sait si bien **écouté**
+Son rire résonne comme une **prédiction** joyeuse des jours à venir. Elle est un **protagoniste** éclatant que l'on trouve au détour d'une page.
+
+Son existence est parfois une **énigme**, la même qui sait si bien **écouté**
 
 
 ![Ran vogue coloré](/assets/A7401564-editvogue.jpg)
 
-•*Magazine fictif, inspiration artistique - Vogue*
+•*Vogue - Couverture fictive, inspiration artistique*
 
 ![Ran feu](/assets/A7401570-edit.jpg)
 
@@ -93,9 +95,10 @@ J'aimerais qu'un **jour**, je puisse vous offrir cette **statue de marbre**... N
 
 ![Ran assise ballon look up](/assets/A7401597-editcleanjey.jpg)
 
-À travers cette expérience, j'ai appris que **chaque instant** avec une personne était pour capturer un moment **précieux** avec mon appareil photo. 
+À travers cette expérience, j'ai appris que **chaque instant** avec une personne était comme capturer un moment **précieux** avec mon appareil photo. 
 
 Chaque **sourire**, chaque **regard**, chaque **éclat de rire**, étaient autant d'émotions quand ils ont **percuté** ma vie.
+
 Cette collection de moments **partagés** forme des souvenirs aussi **vivants** que des **images animées**.
 
 
