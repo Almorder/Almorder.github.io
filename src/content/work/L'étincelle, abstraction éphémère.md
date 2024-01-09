@@ -1,5 +1,5 @@
 ---
-title: Ivy
+title: L'étincelle, abstraction éphémère.md
 
 publishDate: 2024-01-06 14:00:00
 img: /assets/A7401563-editcleanjey.jpg
@@ -38,7 +38,7 @@ Ce **tableau** me rappelle **l'infini**, une lueur en **perpétuel changement**.
 
 <p>&nbsp;</p>
 
-![Ran contre-plongé salle ronde](/A7401490-edit.jpg)
+![Ran contreplongé salle ronde](/A7401490-edit.jpg)
 
 ### Flawless
 
@@ -46,15 +46,13 @@ Il est si agréable d'exercer sa passion entourée de vos **proches**.
 
 La journée de production s'est déroulée à **merveille** et est allée **au-delà** de mes espérances.
 
-En cadrant **soigneusement** chaque image pour capturer l'essence d'un moment, j'ai appris à apprécier les **détails subtils** qui composent un bon **tableau**. Les conversations, les gestes tendres, les petites expressions qui dansent comme des **jeux de lumière** sur une photo bien exposée : tous ces éléments ont pris une **nouvelle signification** ce jour-là.
+En cadrant **soigneusement** chaque image pour capturer l'essence d'un moment, j'ai appris à apprécier les **détails subtils** qui composent un bon **tableau**.
 
+Les conversations, les gestes tendres, les petites expressions qui dansent comme des **jeux de lumière** sur une photo bien exposée : tous ces éléments ont pris une **nouvelle signification** ce jour-là.
 
+![Ran allongé atelier](/assets/A7401527-editcleanjey.jpg)
 
 ![Ran féerique atelier](/assets/A7401513-editclean.jpg)
-
-![Ran vogue atelier](/assets/A7401527-editvogue2.jpg)
-
-•*Magazine fictif, inspiration artistique - Vogue*
 
 
 <p>&nbsp;</p>
@@ -106,4 +104,4 @@ Cette collection de moments **partagés** forme des souvenirs aussi **vivants** 
 Trouver plutôt en chaque **déferlante** une leçon, une **invitation** à naviguer plus sagement vers des horizons remplis de **sérénité**.
 
 
-##### - *“If you love, You must bear the risk of feeling hate.”*
+##### - *“If you love, you must bear the risk of feeling hate.”*
