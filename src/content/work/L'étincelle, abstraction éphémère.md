@@ -38,7 +38,7 @@ Ce **tableau** me rappelle **l'infini**, une lueur en **perpétuel changement**.
 
 <p>&nbsp;</p>
 
-![Ran contreplongé salle ronde](/A7401490-edit.jpg)
+![Ran contreplongé salle ronde](assets/A7401490-edit.jpg)
 
 ### Flawless
 
