@@ -1,13 +1,12 @@
 ---
-title: 
-
+title: Car Fever
 publishDate: 2024-09-11 14:00:00
 img: /assets/A7402825-edit-almorder.jpg
 img_alt: Almorder car - red corvette
 description: |
        My sole vice is fast automobiles.
 tags:
-- Voiture
+ - Voiture
  - Automobile
  - Exposition
 ---
