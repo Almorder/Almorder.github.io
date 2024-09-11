@@ -7,7 +7,7 @@ img_alt: Fantastic vibe orange white
 description: |
       L'enchantement hivernale - Une Palette vibrante
 tags:
-- Paris
+ - Paris
  - Night
  - Shooting
 ---
