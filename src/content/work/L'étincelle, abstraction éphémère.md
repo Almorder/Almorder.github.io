@@ -7,7 +7,7 @@ img_alt: Métro coloré look spec
 description: |
        Vingt mille lieux - La Deuxième chance.
 tags:
-- Mode
+ - Mode
  - Exposition
  - Ran
 ---
