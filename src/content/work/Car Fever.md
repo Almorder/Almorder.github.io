@@ -11,7 +11,9 @@ tags:
  - Exposition
 ---
 
-*Les **photographies** réalisées et exposées ci-dessous ont été produites et publiées selon la **prise de vue** de chaque image. Ces photos sont rendues **possibles** grâce aux **passionnés** de **France** et d'ailleurs, qui exposent leurs modèles pour le plaisir du **public**.*
+*Les **photographies** réalisées et exposées ci-dessous, ont été produites et publiées selon la **date de prise de vue** de chaque image. 
+
+Ces photos sont rendues **possibles** grâce aux **passionnés** de **France** et d'ailleurs, qui exposent leurs voitures pour le plaisir du **public**.*
 
 <p>&nbsp;</p>
 
