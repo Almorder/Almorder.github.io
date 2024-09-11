@@ -7,7 +7,7 @@ img_alt: Té fumée oeil
 description: |
       Expédition amical - Balade coloré
 tags:
-- Clip
+ - Clip
  - Shooting
  - Prestation
 ---
