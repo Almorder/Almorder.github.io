@@ -28,7 +28,7 @@ Dans ce jardin peu fréquenté de Paris, des coins semblent encore à découvrir
 
 Un passage où les plantes ne poussent plus, à cause des pas répétés des petits animaux qui peuplent l'endroit. Vous observerez alors un lieu **fragile** et immaculé de la présence humaine.
 
-Et puis, **soudainement**, vous prenez place, vous aussi, dans ce **décor**, et pour un instant, vous faites partie intégrante de ce qui vous entoure.
+Et puis **soudainement**, vous prenez place, vous aussi, dans ce **décor**, et pour un instant, vous faites partie intégrante de ce qui vous entoure.
 
 
 
@@ -38,17 +38,17 @@ Et puis, **soudainement**, vous prenez place, vous aussi, dans ce **décor**, et
 
 ### 5
 
-**5** c'est le nombre de lettre dans ton prénom, **5** c'est aussi le nombre de jours qu'il m'a fallut pour te supporter et devenir ton ami et enfin **5** c'est depuis combien d'années notre amitié à commencé ! 
+**5**, c’est le nombre de lettres dans ton prénom, **5**, c’est aussi le nombre de jours qu’il m’a fallu pour te supporter et devenir ton ami 🤣 et enfin **5**, c’est depuis combien d’années notre amitié à commencé !
 
-Depuis nos histoires **amusantes** du lycée, jusqu'au après midi **folles** et nos sorties improvisées, je crois que **rien** n'a changé. Tu as peut être une mini barbe maintenant mais je sais que tu es toujours le même garçon **souriant** et attentionné.
+Depuis nos histoires **amusantes** du lycée, jusqu’aux après-midi folles et nos sorties improvisées, je crois que **rien** n’a changé. Tu as peut-être une minie barbe maintenant, mais je sais que tu es toujours le même garçon **souriant** et **attentionné**.
 
-Je ne suis peut être pas au courant de tous ce qui se passe dans ta vie, mais je l'espère, **Kenan**, pouvoir te soutenir où que tu ailles sur cette Terre. 
+Je ne suis peut-être pas au courant de **tout** ce qui se passe dans ta vie, mais je l’espère, **Kenan**, pouvoir te **soutenir** où que tu ailles sur cette Terre.
 
-Peu importe combien il faudra batailler.
+Peu importe combien il faudra **batailler**.
 
-Tu es devenu un jeune homme **formidabl**e et je suis de tout coeur avec toi pour le futur qui t'attends ! Tu as des personnes qui te soutiennent derrière toi et tu ne seras jamais seul si tu **continu** d'être celui que je **connais**.
+Tu es devenu un jeune homme **formidable** et je suis de tout cœur avec toi pour le futur qui t’attends ! Tu as des personnes qui te **soutiennent** derrière toi et tu ne seras jamais **seul** si tu **continues** d’être celui que je **connais**.
 
-Merci Kenan pour ces belles années, ils nous restent encore du temps pour profiter, alors je te le promets, on se reverra bientôt :).
+Merci Kenan pour ces **belles** années, ils nous restent encore du **temps** pour profiter, alors je te le **promets**, on se reverra bientôt :).
 
 ![Kenan regard futur](/assets/A7403724-edit.jpg)
 
