@@ -11,13 +11,13 @@ tags:
  - Exposition
 ---
 
-*Les **photographies** réalisées et exposées ci-dessous, ont été produites et publiées selon la **date de prise de vue** de chaque image. 
+*Les **photographies** réalisées et exposées ci-dessous, ont été produites et publiées selon la **date de prise de vue** de chaque image.* 
 
-Ces photos sont rendues **possibles** grâce aux **passionnés** de **France** et d'ailleurs, qui exposent leurs voitures pour le plaisir du **public**.*
+*Ces photos sont rendues **possibles** grâce aux **passionnés** de **France** et d'ailleurs, qui exposent leurs voitures pour le plaisir du **public**.*
 
 <p>&nbsp;</p>
 
-## They might have a favourite model, or they might like all of them.
+### They might have a favourite model, or they might like all of them.
 > Bon vissionnage 😉
 
 ![AR rouge](/assets/A7403752-edit.jpg)
@@ -36,7 +36,7 @@ Ces photos sont rendues **possibles** grâce aux **passionnés** de **France** e
 
 ![AR rouge course](/assets/A7403768-edit.jpg)
 
-## It's time to grab a seat and accelerate.
+### It's time to grab a seat and accelerate.
 
 ![mclaren bleu top view](/assets/A7403657-edit.jpg)
 
