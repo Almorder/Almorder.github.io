@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Upload image to assets and Deploy to GitHub Pages
 
 on:
   push:
@@ -11,23 +11,40 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  upload_image:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Git configuration
+        run: |
+          git config --global user.name "Almorder"
+          git config --global user.email "xalmorder@gmail.com"
+
+      - name: Upload image to assets folder
+        run: |
+          # Copier l'image dans le dossier 'assets'
+          cp ./path/to/your/image.jpg ./assets/
+          
+          # Ajouter l'image au suivi Git
+          git add ./assets/image.jpg
+          
+          # Commit l'image
+          git commit -m "Upload new image to assets"
+          
+          # Push les changements
+          git push
+
+  build:
+    needs: upload_image
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
 
       - name: Install, build, and upload your site
         uses: withastro/action@v0
-        with:
-          path: .  # Le projet Astro doit être à la racine de ton repo
-          node-version: 18 # Utilisation de Node 18, recommandé pour Astro
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v3  # Remplace avec la version v3 ou v4 selon ce qui fonctionne
-        with:
-          name: github-pages
-          path: ./dist  # Assure-toi que ton build Astro sort dans le dossier './dist' ou modifie ce chemin
 
   deploy:
     needs: build
@@ -36,12 +53,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v2  # Utilisation de la version v2
-        with:
-          name: github-pages
-          path: ./dist
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
