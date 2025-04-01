@@ -14,20 +14,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checkout le repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Installe Astro, build ton site et le prépare pour la publication
       - name: Install, build, and upload your site
         uses: withastro/action@v0
         with:
           path: .  # Le projet Astro doit être à la racine de ton repo
           node-version: 18 # Utilisation de Node 18, recommandé pour Astro
 
-      # Upload l'artefact du build (si nécessaire pour un autre usage)
       - name: Upload artifact
-        uses: actions/upload-artifact@v2  # Mise à jour vers v2
+        uses: actions/upload-artifact@v3  # Remplace avec la version v3 ou v4 selon ce qui fonctionne
         with:
           name: github-pages
           path: ./dist  # Assure-toi que ton build Astro sort dans le dossier './dist' ou modifie ce chemin
@@ -39,14 +36,12 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      # Télécharge l'artefact que nous avons uploadé dans la première étape
       - name: Download artifact
-        uses: actions/download-artifact@v2  # Mise à jour vers v2
+        uses: actions/download-artifact@v2  # Utilisation de la version v2
         with:
           name: github-pages
           path: ./dist
 
-      # Déploie sur GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
