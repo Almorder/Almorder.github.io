@@ -25,9 +25,9 @@ jobs:
           path: .  # Le projet Astro doit être à la racine de ton repo
           node-version: 18 # Utilisation de Node 18, recommandé pour Astro
 
-      # Optionnel : Upload l'artefact du build (si nécessaire pour un autre usage)
+      # Upload l'artefact du build (si nécessaire pour un autre usage)
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v2  # Mise à jour vers v2
         with:
           name: github-pages
           path: ./dist  # Assure-toi que ton build Astro sort dans le dossier './dist' ou modifie ce chemin
@@ -41,7 +41,7 @@ jobs:
     steps:
       # Télécharge l'artefact que nous avons uploadé dans la première étape
       - name: Download artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v2  # Mise à jour vers v2
         with:
           name: github-pages
           path: ./dist
