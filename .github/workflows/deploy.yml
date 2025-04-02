@@ -20,11 +20,13 @@ jobs:
       - name: Install dependencies and build site
         uses: withastro/action@v1
 
-      - name: Upload build artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: github-pages
-          path: dist # Assure-toi que c'est bien le dossier où Astro génère ton site
+      - name: Upload artifact
+  uses: actions/upload-artifact@v4
+  with:
+    name: github-pages
+    path: ./dist
+    retention-days: 1
+
 
   deploy:
     needs: build
