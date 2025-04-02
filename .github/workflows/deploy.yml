@@ -15,18 +15,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install dependencies and build site
-        uses: withastro/action@v1
+        uses: withastro/action@v4
 
-      - name: Upload artifact
-  uses: actions/upload-artifact@v4
-  with:
-    name: github-pages
-    path: ./dist
-    retention-days: 1
-
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-pages
+          path: ./dist # Assure-toi que c'est bien le dossier où Astro génère ton site
 
   deploy:
     needs: build
@@ -39,8 +37,8 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: github-pages
-          path: dist
+          path: ./dist
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
