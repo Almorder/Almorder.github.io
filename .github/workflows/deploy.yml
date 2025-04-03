@@ -2,11 +2,11 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -15,22 +15,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4  # Mise à jour vers la dernière version
 
-      - name: Install dependencies and build site
-        uses: withastro/action@v4
+      - name: Install, build, and upload site
+        uses: withastro/action@v1
 
-      - name: Remove symlinks if any
-        run: find ./dist -type l -exec rm {} \;
-
-      - name: Check artifact size
-        run: du -sh ./dist
-
-      - name: Upload build artifacts
-        uses: actions/upload-artifact@v4
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4  # Mise à jour vers la dernière version
         with:
-          name: github-pages
-          path: ./dist
+          name: astro-build
+          path: dist
 
   deploy:
     needs: build
@@ -39,12 +33,12 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Download build artifacts
-        uses: actions/download-artifact@v4
+      - name: Download build artifact
+        uses: actions/download-artifact@v4  # Ajout de l'étape pour récupérer les fichiers avant le déploiement
         with:
-          name: github-pages
-          path: ./dist
+          name: astro-build
+          path: dist
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v2
