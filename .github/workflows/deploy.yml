@@ -2,11 +2,11 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -15,16 +15,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # Mise à jour vers la dernière version
+        uses: actions/checkout@v4
 
-      - name: Install, build, and upload site
-        uses: withastro/action@v1
-
-      - name: Upload build artifact
-        uses: actions/upload-artifact@v4  # Mise à jour vers la dernière version
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          name: astro-build
-          path: dist
+          node-version: 18
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run build
+
+      - name: Check dist folder (no symlinks)
+        run: |
+          echo "Scanning for symlinks or hard links in dist..."
+          find dist -type l && exit 1 || echo "✅ No symlinks found."
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-pages
+          path: ./dist
+          retention-days: 1
 
   deploy:
     needs: build
@@ -33,12 +48,15 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Download build artifact
-        uses: actions/download-artifact@v4  # Ajout de l'étape pour récupérer les fichiers avant le déploiement
+      - name: Download build artifacts
+        uses: actions/download-artifact@v4
         with:
-          name: astro-build
-          path: dist
+          name: github-pages
+          path: ./dist
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
