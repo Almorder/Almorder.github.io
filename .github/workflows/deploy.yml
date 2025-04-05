@@ -29,12 +29,10 @@ jobs:
       - name: Build site
         run: npm run build
 
-      - name: Upload build artifacts
-        uses: actions/upload-artifact@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: github-pages
-          path: ./public  # Remplace './dist' par './public'
-          retention-days: 1  # Garde l’artefact uniquement pendant 1 jour pour éviter l'encombrement
+          path: ./dist
 
   deploy:
     needs: build
@@ -43,15 +41,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Download build artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-          path: ./public  # Remplace './dist' par './public'
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
