@@ -1,6 +1,6 @@
 ---
 title: Car Fever
-publishDate: 2024-09-11 14:00:00
+publishDate: 2025-04-08 14:00:00
 img: /assets/A7402825-edit-almorder.jpg
 img_alt: Almorder car - red corvette
 description: |
@@ -19,6 +19,16 @@ tags:
 
 ### They might have a favourite model, or they might like all of them.
 > Bon vissionnage 😉
+
+![AudiFront](/assets/carpostertestaudi.jpg)
+
+![Audilogo](/assets/Convertion_111-edit-clean.jpg)
+
+![Audilogo](/assets/Convertion_115-edit-clean.jpg)
+
+>![Audivertical](/assets/Convertion_122-edit-clean.jpg)
+
+### The engine says it all.
 
 ![AR rouge](/assets/A7403752-edit.jpg)
 
