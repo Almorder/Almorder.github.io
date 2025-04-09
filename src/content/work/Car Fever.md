@@ -137,4 +137,4 @@ Un moment de **calme** où des machines propulsé par des **explosions** répét
 
 <p>&nbsp;</p>
 
-##### - *“La vie oscille, comme un pendule, de la souffrance à l’ennui.”*
+##### - *“La beauté est dans les yeux de celui qui regarde.”*
