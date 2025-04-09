@@ -28,6 +28,8 @@ tags:
 
 >![Audivertical](/assets/Convertion_122-edit-clean.jpg)
 
+<p>&nbsp;</p>
+
 ### The engine says it all.
 
 ![AR rouge](/assets/A7403752-edit.jpg)
@@ -45,6 +47,8 @@ tags:
 ![AR rouge course close](/assets/A7403770-edit.jpg)
 
 ![AR rouge course](/assets/A7403768-edit.jpg)
+
+<p>&nbsp;</p>
 
 ### It's time to grab a seat and accelerate.
 
